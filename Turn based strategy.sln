@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turn based strategy.CSharp", "Turn based strategy.CSharp.csproj", "{03F704DB-76A1-17DD-857E-57DD4EA0B5A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turn based strategy.CSharp.Editor", "Turn based strategy.CSharp.Editor.csproj", "{4C2D9540-49B3-82DC-528D-51450DFFE65B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F704DB-76A1-17DD-857E-57DD4EA0B5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F704DB-76A1-17DD-857E-57DD4EA0B5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F704DB-76A1-17DD-857E-57DD4EA0B5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F704DB-76A1-17DD-857E-57DD4EA0B5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2D9540-49B3-82DC-528D-51450DFFE65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2D9540-49B3-82DC-528D-51450DFFE65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2D9540-49B3-82DC-528D-51450DFFE65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2D9540-49B3-82DC-528D-51450DFFE65B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
